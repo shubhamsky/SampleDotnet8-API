@@ -3,16 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\shubh\\source\\repos\\SuperHeroAPI-DotNet8\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{503406CE-ED7F-4DC7-87FA-AB0D14286809}|SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8.csproj|c:\\users\\shubh\\source\\repos\\superheroapi-dotnet8\\superheroapi-dotnet8\\controllers\\superherocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503406CE-ED7F-4DC7-87FA-AB0D14286809}|SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8.csproj|solutionrelative:superheroapi-dotnet8\\controllers\\superherocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{503406CE-ED7F-4DC7-87FA-AB0D14286809}|SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8.csproj|c:\\users\\shubh\\source\\repos\\superheroapi-dotnet8\\superheroapi-dotnet8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{503406CE-ED7F-4DC7-87FA-AB0D14286809}|SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8.csproj|solutionrelative:superheroapi-dotnet8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{503406CE-ED7F-4DC7-87FA-AB0D14286809}|SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8.csproj|c:\\users\\shubh\\source\\repos\\superheroapi-dotnet8\\superheroapi-dotnet8\\superheroapi-dotnet8.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{503406CE-ED7F-4DC7-87FA-AB0D14286809}|SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8.csproj|solutionrelative:superheroapi-dotnet8\\superheroapi-dotnet8.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{503406CE-ED7F-4DC7-87FA-AB0D14286809}|SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8.csproj|c:\\users\\shubh\\source\\repos\\superheroapi-dotnet8\\superheroapi-dotnet8\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503406CE-ED7F-4DC7-87FA-AB0D14286809}|SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8.csproj|solutionrelative:superheroapi-dotnet8\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{503406CE-ED7F-4DC7-87FA-AB0D14286809}|SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8.csproj|c:\\users\\shubh\\source\\repos\\superheroapi-dotnet8\\superheroapi-dotnet8\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{503406CE-ED7F-4DC7-87FA-AB0D14286809}|SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8.csproj|solutionrelative:superheroapi-dotnet8\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{503406CE-ED7F-4DC7-87FA-AB0D14286809}|SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8.csproj|c:\\users\\shubh\\source\\repos\\superheroapi-dotnet8\\superheroapi-dotnet8\\entities\\superhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503406CE-ED7F-4DC7-87FA-AB0D14286809}|SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8.csproj|solutionrelative:superheroapi-dotnet8\\entities\\superhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503406CE-ED7F-4DC7-87FA-AB0D14286809}|SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8.csproj|c:\\users\\shubh\\source\\repos\\superheroapi-dotnet8\\superheroapi-dotnet8\\migrations\\20241014090014_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503406CE-ED7F-4DC7-87FA-AB0D14286809}|SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8.csproj|solutionrelative:superheroapi-dotnet8\\migrations\\20241014090014_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503406CE-ED7F-4DC7-87FA-AB0D14286809}|SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8.csproj|c:\\users\\shubh\\source\\repos\\superheroapi-dotnet8\\superheroapi-dotnet8\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{503406CE-ED7F-4DC7-87FA-AB0D14286809}|SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8.csproj|solutionrelative:superheroapi-dotnet8\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503406CE-ED7F-4DC7-87FA-AB0D14286809}|SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8.csproj|c:\\users\\shubh\\source\\repos\\superheroapi-dotnet8\\superheroapi-dotnet8\\superheroapi-dotnet8.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{503406CE-ED7F-4DC7-87FA-AB0D14286809}|SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8.csproj|solutionrelative:superheroapi-dotnet8\\superheroapi-dotnet8.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503406CE-ED7F-4DC7-87FA-AB0D14286809}|SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8.csproj|c:\\users\\shubh\\source\\repos\\superheroapi-dotnet8\\superheroapi-dotnet8\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{503406CE-ED7F-4DC7-87FA-AB0D14286809}|SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8.csproj|solutionrelative:superheroapi-dotnet8\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503406CE-ED7F-4DC7-87FA-AB0D14286809}|SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8.csproj|c:\\users\\shubh\\source\\repos\\superheroapi-dotnet8\\superheroapi-dotnet8\\superheroapi-dotnet8.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{503406CE-ED7F-4DC7-87FA-AB0D14286809}|SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8.csproj|solutionrelative:superheroapi-dotnet8\\superheroapi-dotnet8.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +46,116 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SuperHeroAPI-DotNet8.csproj",
+              "DocumentMoniker": "C:\\Users\\shubh\\source\\repos\\SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8.csproj",
+              "RelativeDocumentMoniker": "SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8.csproj",
+              "ToolTip": "C:\\Users\\shubh\\source\\repos\\SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8.csproj",
+              "RelativeToolTip": "SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-14T09:02:29.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\shubh\\source\\repos\\SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8\\appsettings.json",
+              "RelativeDocumentMoniker": "SuperHeroAPI-DotNet8\\appsettings.json",
+              "ToolTip": "C:\\Users\\shubh\\source\\repos\\SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8\\appsettings.json",
+              "RelativeToolTip": "SuperHeroAPI-DotNet8\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-14T08:34:02.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SuperHeroController.cs",
+              "DocumentMoniker": "C:\\Users\\shubh\\source\\repos\\SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8\\Controllers\\SuperHeroController.cs",
+              "RelativeDocumentMoniker": "SuperHeroAPI-DotNet8\\Controllers\\SuperHeroController.cs",
+              "ToolTip": "C:\\Users\\shubh\\source\\repos\\SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8\\Controllers\\SuperHeroController.cs",
+              "RelativeToolTip": "SuperHeroAPI-DotNet8\\Controllers\\SuperHeroController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAgwEsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:12:27.023Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shubh\\source\\repos\\SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8\\Program.cs",
+              "RelativeDocumentMoniker": "SuperHeroAPI-DotNet8\\Program.cs",
+              "ToolTip": "C:\\Users\\shubh\\source\\repos\\SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8\\Program.cs",
+              "RelativeToolTip": "SuperHeroAPI-DotNet8\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:42:33.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241014090014_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\shubh\\source\\repos\\SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8\\Migrations\\20241014090014_Initial.cs",
+              "RelativeDocumentMoniker": "SuperHeroAPI-DotNet8\\Migrations\\20241014090014_Initial.cs",
+              "ToolTip": "C:\\Users\\shubh\\source\\repos\\SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8\\Migrations\\20241014090014_Initial.cs",
+              "RelativeToolTip": "SuperHeroAPI-DotNet8\\Migrations\\20241014090014_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T09:00:14.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\shubh\\source\\repos\\SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "SuperHeroAPI-DotNet8\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\shubh\\source\\repos\\SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8\\Data\\DataContext.cs",
+              "RelativeToolTip": "SuperHeroAPI-DotNet8\\Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:29:59.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SuperHero.cs",
+              "DocumentMoniker": "C:\\Users\\shubh\\source\\repos\\SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8\\Entities\\SuperHero.cs",
+              "RelativeDocumentMoniker": "SuperHeroAPI-DotNet8\\Entities\\SuperHero.cs",
+              "ToolTip": "C:\\Users\\shubh\\source\\repos\\SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8\\Entities\\SuperHero.cs",
+              "RelativeToolTip": "SuperHeroAPI-DotNet8\\Entities\\SuperHero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:07:34.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\shubh\\source\\repos\\SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SuperHeroAPI-DotNet8\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\shubh\\source\\repos\\SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SuperHeroAPI-DotNet8\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-14T08:14:20.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "SuperHeroAPI-DotNet8.http",
               "DocumentMoniker": "C:\\Users\\shubh\\source\\repos\\SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8.http",
               "RelativeDocumentMoniker": "SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8.http",
@@ -34,34 +163,7 @@
               "RelativeToolTip": "SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-10-14T07:47:23.205Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\shubh\\source\\repos\\SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8\\Program.cs",
-              "RelativeDocumentMoniker": "SuperHeroAPI-DotNet8\\Program.cs",
-              "ToolTip": "C:\\Users\\shubh\\source\\repos\\SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8\\Program.cs",
-              "RelativeToolTip": "SuperHeroAPI-DotNet8\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T07:42:33.437Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\shubh\\source\\repos\\SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "SuperHeroAPI-DotNet8\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\shubh\\source\\repos\\SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "SuperHeroAPI-DotNet8\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAUAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T07:22:28.391Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T07:47:23.205Z"
             }
           ]
         }
