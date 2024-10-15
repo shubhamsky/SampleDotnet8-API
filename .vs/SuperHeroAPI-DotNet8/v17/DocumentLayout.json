@@ -84,7 +84,7 @@
               "RelativeDocumentMoniker": "SuperHeroAPI-DotNet8\\Controllers\\SuperHeroController.cs",
               "ToolTip": "C:\\Users\\shubh\\source\\repos\\SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8\\Controllers\\SuperHeroController.cs",
               "RelativeToolTip": "SuperHeroAPI-DotNet8\\Controllers\\SuperHeroController.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAgwEsAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-14T08:12:27.023Z",
               "EditorCaption": ""
@@ -99,8 +99,7 @@
               "RelativeToolTip": "SuperHeroAPI-DotNet8\\Program.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAqwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T07:42:33.437Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T07:42:33.437Z"
             },
             {
               "$type": "Document",
@@ -112,8 +111,7 @@
               "RelativeToolTip": "SuperHeroAPI-DotNet8\\Migrations\\20241014090014_Initial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T09:00:14.706Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T09:00:14.706Z"
             },
             {
               "$type": "Document",
@@ -125,8 +123,7 @@
               "RelativeToolTip": "SuperHeroAPI-DotNet8\\Data\\DataContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T08:29:59.205Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T08:29:59.205Z"
             },
             {
               "$type": "Document",
@@ -138,8 +135,7 @@
               "RelativeToolTip": "SuperHeroAPI-DotNet8\\Entities\\SuperHero.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T08:07:34.18Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T08:07:34.18Z"
             },
             {
               "$type": "Document",

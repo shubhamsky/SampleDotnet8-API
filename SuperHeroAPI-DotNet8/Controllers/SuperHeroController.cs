@@ -48,6 +48,11 @@ namespace SuperHeroAPI_DotNet8.Controllers
             return Ok(await _dataContext.SuperHeroes.ToListAsync());
         }
 
+        /// <summary>
+        /// UpdateHero
+        /// </summary>
+        /// <param name="updatedHero"></param>
+        /// <returns></returns>
         [HttpPut]
         public async Task<ActionResult<SuperHero>> UpdateHero(SuperHero updatedHero)
         {
@@ -62,11 +67,16 @@ namespace SuperHeroAPI_DotNet8.Controllers
 
             await _dataContext.SaveChangesAsync();
 
-            return Ok(await _dataContext.SuperHeroes.ToListAsync());
+            return Ok(await _dataContext.SuperHeroes.FindAsync(dbHero.Id));
         }
 
+        /// <summary>
+        /// DeleteHero
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns>Updated Hero List</returns>
         [HttpDelete]
-        public async Task<ActionResult<SuperHero>> DeleteHero(int id)
+        public async Task<ActionResult<List<SuperHero>>> DeleteHero(int id)
         {
             var dbHero = await _dataContext.SuperHeroes.FindAsync(id);
             if (dbHero is null)
