@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Dotnet8_JWT_DemoAPI.props" />
+</Project>

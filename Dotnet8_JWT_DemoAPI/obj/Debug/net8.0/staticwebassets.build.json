@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mJC31HrzYls4l876yW60sx0YRlrXKqLGo/Yns6YqxUo=",
+  "Source": "Dotnet8_JWT_DemoAPI",
+  "BasePath": "_content/Dotnet8_JWT_DemoAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

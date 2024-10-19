@@ -1,0 +1,6 @@
+@Dotnet8_JWT_DemoAPI_HostAddress = http://localhost:5133
+
+GET {{Dotnet8_JWT_DemoAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
