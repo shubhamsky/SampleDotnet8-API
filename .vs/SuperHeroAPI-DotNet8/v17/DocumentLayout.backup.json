@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\shubh\\source\\repos\\SuperHeroAPI-DotNet8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4E0D3336-CBFC-41EA-B0D1-060BD6605D57}|VehicleStoreAPI\\VehicleStoreAPI.csproj|c:\\users\\shubh\\source\\repos\\superheroapi-dotnet8\\vehiclestoreapi\\service\\weatherappservices\\weatherappserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E0D3336-CBFC-41EA-B0D1-060BD6605D57}|VehicleStoreAPI\\VehicleStoreAPI.csproj|solutionrelative:vehiclestoreapi\\service\\weatherappservices\\weatherappserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4E0D3336-CBFC-41EA-B0D1-060BD6605D57}|VehicleStoreAPI\\VehicleStoreAPI.csproj|c:\\users\\shubh\\source\\repos\\superheroapi-dotnet8\\vehiclestoreapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E0D3336-CBFC-41EA-B0D1-060BD6605D57}|VehicleStoreAPI\\VehicleStoreAPI.csproj|solutionrelative:vehiclestoreapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +13,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4E0D3336-CBFC-41EA-B0D1-060BD6605D57}|VehicleStoreAPI\\VehicleStoreAPI.csproj|c:\\users\\shubh\\source\\repos\\superheroapi-dotnet8\\vehiclestoreapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E0D3336-CBFC-41EA-B0D1-060BD6605D57}|VehicleStoreAPI\\VehicleStoreAPI.csproj|solutionrelative:vehiclestoreapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E0D3336-CBFC-41EA-B0D1-060BD6605D57}|VehicleStoreAPI\\VehicleStoreAPI.csproj|c:\\users\\shubh\\source\\repos\\superheroapi-dotnet8\\vehiclestoreapi\\vehiclestoreapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4E0D3336-CBFC-41EA-B0D1-060BD6605D57}|VehicleStoreAPI\\VehicleStoreAPI.csproj|solutionrelative:vehiclestoreapi\\vehiclestoreapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,45 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "WeatherAppServiceExtension.cs",
-              "DocumentMoniker": "C:\\Users\\shubh\\source\\repos\\SuperHeroAPI-DotNet8\\VehicleStoreAPI\\Service\\WeatherAppServices\\WeatherAppServiceExtension.cs",
-              "RelativeDocumentMoniker": "VehicleStoreAPI\\Service\\WeatherAppServices\\WeatherAppServiceExtension.cs",
-              "ToolTip": "C:\\Users\\shubh\\source\\repos\\SuperHeroAPI-DotNet8\\VehicleStoreAPI\\Service\\WeatherAppServices\\WeatherAppServiceExtension.cs",
-              "RelativeToolTip": "VehicleStoreAPI\\Service\\WeatherAppServices\\WeatherAppServiceExtension.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T17:34:45.294Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "VehicleStoreAPI",
-              "DocumentMoniker": "C:\\Users\\shubh\\source\\repos\\SuperHeroAPI-DotNet8\\VehicleStoreAPI\\VehicleStoreAPI.csproj",
-              "RelativeDocumentMoniker": "VehicleStoreAPI\\VehicleStoreAPI.csproj",
-              "ToolTip": "C:\\Users\\shubh\\source\\repos\\SuperHeroAPI-DotNet8\\VehicleStoreAPI\\VehicleStoreAPI.csproj",
-              "RelativeToolTip": "VehicleStoreAPI\\VehicleStoreAPI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-17T15:44:34.217Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\shubh\\source\\repos\\SuperHeroAPI-DotNet8\\VehicleStoreAPI\\Program.cs",
               "RelativeDocumentMoniker": "VehicleStoreAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\shubh\\source\\repos\\SuperHeroAPI-DotNet8\\VehicleStoreAPI\\Program.cs",
-              "RelativeToolTip": "VehicleStoreAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\shubh\\source\\repos\\SuperHeroAPI-DotNet8\\VehicleStoreAPI\\Program.cs*",
+              "RelativeToolTip": "VehicleStoreAPI\\Program.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T15:39:08.648Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\shubh\\source\\repos\\SuperHeroAPI-DotNet8\\VehicleStoreAPI\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "VehicleStoreAPI\\Controllers\\WeatherForecastController.cs",
@@ -90,13 +56,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "WeatherAppService.cs",
               "DocumentMoniker": "C:\\Users\\shubh\\source\\repos\\SuperHeroAPI-DotNet8\\VehicleStoreAPI\\Service\\WeatherAppServices\\WeatherAppService.cs",
               "RelativeDocumentMoniker": "VehicleStoreAPI\\Service\\WeatherAppServices\\WeatherAppService.cs",
               "ToolTip": "C:\\Users\\shubh\\source\\repos\\SuperHeroAPI-DotNet8\\VehicleStoreAPI\\Service\\WeatherAppServices\\WeatherAppService.cs",
               "RelativeToolTip": "VehicleStoreAPI\\Service\\WeatherAppServices\\WeatherAppService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T15:31:43.989Z",
               "EditorCaption": ""

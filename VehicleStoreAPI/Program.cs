@@ -1,15 +1,25 @@
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using VehicleStoreAPI;
 using VehicleStoreAPI.Service.WeatherAppServices;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+// DI and Repository Pattern Example Here Interface is having WeatherAppServiceExtension
+// We could have another implementation and just need to change the Concrete service instead of making changes at multiple places
 builder.Services.AddScoped<IWeatherAppService<WeatherForecast>, WeatherAppServiceExtension>();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+builder.Services.AddAuthentication(options =>
+{
+    options.DefaultAuthenticateScheme =  JwtBearerDefaults.AuthenticationScheme;
+    options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme; 
+
+});
 
 var app = builder.Build();
 
